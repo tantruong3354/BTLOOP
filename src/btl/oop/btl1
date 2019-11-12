@@ -1,0 +1,62 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package btloop;
+
+/**
+ *
+ * @author Tan
+ */
+public class QUẢNLÝHỘKHẨU {
+    String sohokhau;
+    String chuho;
+    int sonha;
+    String duong;
+    String xa;
+    String huyen;
+    
+    public String getSohokhau(){
+        return sohokhau;
+    }
+    public void setSohokhau(String sohokhau){
+        this.sohokhau=sohokhau;
+    }
+    
+    public String getChuho() {
+        return chuho;
+    }
+    public void setChuho(String chuho){
+        this.chuho=chuho;
+    }
+    
+    public int getSonha(){
+        return sonha;
+    }
+    public void setSonho(int sonha){
+        this.sonha=sonha;
+    }
+    
+    public String getDuong(){
+        return duong;
+    }
+    public void setDuong(String duong){
+        this.duong=duong;
+    }
+    
+    public String getXa(){
+        return xa;
+    }
+    public void setXa(String xa){
+        this.xa=xa;
+    }
+    
+    public String getHuyen(){
+        return huyen;
+    }
+    public void setHuyen(String huyen){
+        this.huyen=huyen;
+    }
+            
+}
