@@ -1,0 +1,119 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package btloop;
+
+/**
+ *
+ * @author Tan
+ */
+public class QUẢNLÝNHÂNKHẨU {
+    String hoten;
+    String bidanh;
+    String ngaythangnamsinh;
+    String gioitinh;
+    String noisinh;
+    String nguyenquan;
+    String dantoc;
+    String nghenghiep;
+    String noilamviec;
+    String soCMND;
+    String ngaycap;
+    String noicap;
+    String diachithuongtru;
+    String quanhevoichuho;
+    
+    public String getHoten(){
+        return hoten;
+    }
+    public void setHoten(String hoten){
+        this.hoten=hoten;
+    }
+    
+    public String getBidanh(){
+        return bidanh;
+    }
+    public void setBidanh(String bidanh){
+        this.bidanh=bidanh;
+    }
+            
+    public String getNgaythangnamsinh(){
+        return ngaythangnamsinh;
+    }
+    public void setNgaythangnamsinh(String ngaythangnamsinh){
+        this.ngaythangnamsinh=ngaythangnamsinh;
+    }
+    
+    public String getGioitinh(){
+        return gioitinh;
+    }
+    public void setGioitinh(String gioitinh){
+        this.gioitinh=gioitinh;
+    }
+    
+    public String getNguyenquan(){
+        return nguyenquan;
+    }
+    public void setNguyenquan(String nguyenquan){
+        this.nguyenquan=nguyenquan;
+    }
+    
+    public String getDantoc(){
+        return dantoc;
+    }
+    public void setDantoc(String dantoc){
+        this.dantoc=dantoc;
+    }
+    
+    public String getNghenghiep(){
+        return nghenghiep;
+    }
+    public void setNghenghiep(String nghenghiep){
+        this.nghenghiep=nghenghiep;
+    }
+    
+    public String getNoilamviec(){
+        return noilamviec;
+    }
+    public void setNoilamviec(String noilamviec){
+        this.noilamviec=noilamviec;
+    }
+    
+    public String getSoCMND(){
+        return soCMND;
+    }
+    public void setSoCMND(String soCMND){
+        this.soCMND=soCMND;
+    }
+    
+    public String getNgaycap(){
+        return ngaycap;
+    }
+    public void setNgaycap(String ngaycap){
+        this.ngaycap=ngaycap;
+    }
+    
+    public String getNoicap(){
+        return noicap;
+    }
+    public void setNoicap(String noicap){
+        this.noicap=noicap;
+    }
+            
+    public String getDiachithuongtru(){
+        return diachithuongtru;
+    }
+    public void setDiachithuongtru(String diachithuongtru){
+        this.diachithuongtru=diachithuongtru;
+    }
+    
+    public String getQuanhevoichuho(){
+        return quanhevoichuho;
+    }
+    public void setQuanhevoichuho(String quanhevoichuho){
+        this.quanhevoichuho=quanhevoichuho;
+    }
+    
+}
